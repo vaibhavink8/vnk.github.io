@@ -5,12 +5,12 @@ Applied Mathematics & Statistics student at UC Berkeley with experience in data 
 
 ## Education
 - **B.A. in Applied Mathematics and Statistics**, University of California, Berkeley (_Expected May 2027_)
-- Relevant Coursework: Numerical Analysis, Abstract Linear Algebra, Concepts in Computing with Data, Concepts of Probability
+- Relevant Coursework: Numerical Analysis, Abstract Linear Algebra, Concepts in Computing with Data & Concepts of Probability
 
 ## Technical Skills
-- **Languages:** Python, R, SQL, MATLAB, LaTeX
-- **Tools:** GitHub, WordPress, Google Apps Script, Base44
-- **Areas:** Data Analysis, Experiment Design, A/B Testing, Workflow Optimization, Product Strategy
+- **Languages:** Python, R & MATLAB
+- **Tools:** Positron, RStudio, WordPress, Google Apps Script & Jupyter Notebook
+- **Areas:** Data Analysis, Leadership, Experimental Design & Workflow Optimization
 
 
 ## Work Experience
